@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Linear Equation: 1 Variable</string>
+		<key>Desc</key>
+		<string>Use this equation template to solve linear equations involving only 1 variable.</string>
+		<key>Example</key>
+		<string>x + 4 = 5</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Linear Equation: 2 Variables</string>
+		<key>Desc</key>
+		<string>Use this equation template to solve linear equations involving 2 variables.</string>
+		<key>Example</key>
+		<string>x + y = 2, x + 2y = 5</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Linear Equation: 3 Variables</string>
+		<key>Desc</key>
+		<string>Use this equation template to solve linear equations involving only 3 variables.</string>
+		<key>Example</key>
+		<string>x + y + z = 6, x + 2y + 3z = 13, x - y + z  = 2</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>LE Graph: General Features</string>
+		<key>Desc</key>
+		<string>Use this equation template to obtain general properties of a linear equation graph, such as slope and intercepts. There are three different sub templates for different forms of linear equations.</string>
+		<key>Example</key>
+		<string>y = x + 3, slope:1, y-intercept:3</string>
+	</dict>
+</array>
+</plist>

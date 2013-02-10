@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Solutions</string>
+		<key>Contents</key>
+		<string>Solutions will be in the form of a decimal rounded to 2 decimal places. The ability to change the number of decimal places and the form of the solution will be available in a future update. Sometimes NaN or -Inf. will be output as a solution. This results when there is no solution to the equation(s). </string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Navigation</string>
+		<key>Contents</key>
+		<string>There are 4 tabs. Choose Solve to solve equations by selecting the appropriate template. Choose Reference to access the help documents regarding equation templates and app features. Choose View to view previously saved solutions of equations. Choose About for information about the app developers, contact information and attributions.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>The Equation Templates</string>
+		<key>Contents</key>
+		<string>The Equation Templates are a set of pre-defined templates which contain the variables, with fields for entering constants. You will have to enter the constants and press solve to find the value of the variable. Please note that the letter of the variable is not important; y=x+3 and b=a+3 are the same. If the template of your choice is not available, please visit the support website and send in a request to pocketsolver@gmail.com and we will try to implement it in our next update.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Entering Data</string>
+		<key>Contents</key>
+		<string>Data can be entered in a number of ways. It can be entered as an integer(7, -9), decimal(4.32) and fraction(-34/9). Please do not enter characters other than 0-9, ., -, + and /. Doing so will result in erroneous solutions.  Hit return after filling out a data field.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Updates</string>
+		<key>Contents</key>
+		<string>Updates will be released regularly. Included in this updates will be new equation templates, face lifts and more. If you would like to see something included in this update, feel free to contact us at pocketsolver@gmail.com.</string>
+	</dict>
+</array>
+</plist>
